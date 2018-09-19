@@ -1,0 +1,660 @@
+Initialize engine version: 5.6.0f3 (497a0f351392)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 980 Ti (ID=0x17c8)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   24.21.13.9924
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Downloads\Hunt_HvZProject3\Hunt_Standalone_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Downloads\Hunt_HvZProject3\Hunt_Standalone_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Downloads\Hunt_HvZProject3\Hunt_Standalone_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Downloads\Hunt_HvZProject3\Hunt_Standalone_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Downloads\Hunt_HvZProject3\Hunt_Standalone_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Downloads\Hunt_HvZProject3\Hunt_Standalone_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Downloads\Hunt_HvZProject3\Hunt_Standalone_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Downloads\Hunt_HvZProject3\Hunt_Standalone_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.030 seconds
+Platform assembly: D:\Downloads\Hunt_HvZProject3\Hunt_Standalone_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Downloads\Hunt_HvZProject3\Hunt_Standalone_Data\Managed\System.dll (this message is harmless)
+desktop: 3840x2160 60Hz; virtual: 8640x3218 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.576192 ms
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 4f64 -> priority: 1 
+  Thread -> id: 2634 -> priority: 1 
+  Thread -> id: 1c30 -> priority: 1 
+  Thread -> id: 3584 -> priority: 1 
+InvalidOperationException: Collection was modified; enumeration operation may not execute.
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].VerifyState () [0x00000] in <filename unknown>:0 
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].MoveNext () [0x00000] in <filename unknown>:0 
+  at ZombieScript.infectHuman (System.Collections.Generic.List`1 humans) [0x00000] in <filename unknown>:0 
+  at SceneManager.UpdateZombies () [0x00000] in <filename unknown>:0 
+  at SceneManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+InvalidOperationException: Collection was modified; enumeration operation may not execute.
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].VerifyState () [0x00000] in <filename unknown>:0 
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].MoveNext () [0x00000] in <filename unknown>:0 
+  at ZombieScript.infectHuman (System.Collections.Generic.List`1 humans) [0x00000] in <filename unknown>:0 
+  at SceneManager.UpdateZombies () [0x00000] in <filename unknown>:0 
+  at SceneManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+InvalidOperationException: Collection was modified; enumeration operation may not execute.
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].VerifyState () [0x00000] in <filename unknown>:0 
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].MoveNext () [0x00000] in <filename unknown>:0 
+  at ZombieScript.infectHuman (System.Collections.Generic.List`1 humans) [0x00000] in <filename unknown>:0 
+  at SceneManager.UpdateZombies () [0x00000] in <filename unknown>:0 
+  at SceneManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+InvalidOperationException: Collection was modified; enumeration operation may not execute.
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].VerifyState () [0x00000] in <filename unknown>:0 
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].MoveNext () [0x00000] in <filename unknown>:0 
+  at ZombieScript.infectHuman (System.Collections.Generic.List`1 humans) [0x00000] in <filename unknown>:0 
+  at SceneManager.UpdateZombies () [0x00000] in <filename unknown>:0 
+  at SceneManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+InvalidOperationException: Collection was modified; enumeration operation may not execute.
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].VerifyState () [0x00000] in <filename unknown>:0 
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].MoveNext () [0x00000] in <filename unknown>:0 
+  at ZombieScript.infectHuman (System.Collections.Generic.List`1 humans) [0x00000] in <filename unknown>:0 
+  at SceneManager.UpdateZombies () [0x00000] in <filename unknown>:0 
+  at SceneManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+InvalidOperationException: Collection was modified; enumeration operation may not execute.
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].VerifyState () [0x00000] in <filename unknown>:0 
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].MoveNext () [0x00000] in <filename unknown>:0 
+  at ZombieScript.infectHuman (System.Collections.Generic.List`1 humans) [0x00000] in <filename unknown>:0 
+  at SceneManager.UpdateZombies () [0x00000] in <filename unknown>:0 
+  at SceneManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+InvalidOperationException: Collection was modified; enumeration operation may not execute.
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].VerifyState () [0x00000] in <filename unknown>:0 
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].MoveNext () [0x00000] in <filename unknown>:0 
+  at ZombieScript.infectHuman (System.Collections.Generic.List`1 humans) [0x00000] in <filename unknown>:0 
+  at SceneManager.UpdateZombies () [0x00000] in <filename unknown>:0 
+  at SceneManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+InvalidOperationException: Collection was modified; enumeration operation may not execute.
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].VerifyState () [0x00000] in <filename unknown>:0 
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].MoveNext () [0x00000] in <filename unknown>:0 
+  at ZombieScript.infectHuman (System.Collections.Generic.List`1 humans) [0x00000] in <filename unknown>:0 
+  at SceneManager.UpdateZombies () [0x00000] in <filename unknown>:0 
+  at SceneManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+InvalidOperationException: Collection was modified; enumeration operation may not execute.
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].VerifyState () [0x00000] in <filename unknown>:0 
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].MoveNext () [0x00000] in <filename unknown>:0 
+  at ZombieScript.infectHuman (System.Collections.Generic.List`1 humans) [0x00000] in <filename unknown>:0 
+  at SceneManager.UpdateZombies () [0x00000] in <filename unknown>:0 
+  at SceneManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+InvalidOperationException: Collection was modified; enumeration operation may not execute.
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].VerifyState () [0x00000] in <filename unknown>:0 
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].MoveNext () [0x00000] in <filename unknown>:0 
+  at ZombieScript.infectHuman (System.Collections.Generic.List`1 humans) [0x00000] in <filename unknown>:0 
+  at SceneManager.UpdateZombies () [0x00000] in <filename unknown>:0 
+  at SceneManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+InvalidOperationException: Collection was modified; enumeration operation may not execute.
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].VerifyState () [0x00000] in <filename unknown>:0 
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].MoveNext () [0x00000] in <filename unknown>:0 
+  at ZombieScript.infectHuman (System.Collections.Generic.List`1 humans) [0x00000] in <filename unknown>:0 
+  at SceneManager.UpdateZombies () [0x00000] in <filename unknown>:0 
+  at SceneManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+InvalidOperationException: Collection was modified; enumeration operation may not execute.
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].VerifyState () [0x00000] in <filename unknown>:0 
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].MoveNext () [0x00000] in <filename unknown>:0 
+  at ZombieScript.infectHuman (System.Collections.Generic.List`1 humans) [0x00000] in <filename unknown>:0 
+  at SceneManager.UpdateZombies () [0x00000] in <filename unknown>:0 
+  at SceneManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+InvalidOperationException: Collection was modified; enumeration operation may not execute.
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].VerifyState () [0x00000] in <filename unknown>:0 
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].MoveNext () [0x00000] in <filename unknown>:0 
+  at ZombieScript.infectHuman (System.Collections.Generic.List`1 humans) [0x00000] in <filename unknown>:0 
+  at SceneManager.UpdateZombies () [0x00000] in <filename unknown>:0 
+  at SceneManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+InvalidOperationException: Collection was modified; enumeration operation may not execute.
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].VerifyState () [0x00000] in <filename unknown>:0 
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].MoveNext () [0x00000] in <filename unknown>:0 
+  at ZombieScript.infectHuman (System.Collections.Generic.List`1 humans) [0x00000] in <filename unknown>:0 
+  at SceneManager.UpdateZombies () [0x00000] in <filename unknown>:0 
+  at SceneManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+InvalidOperationException: Collection was modified; enumeration operation may not execute.
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].VerifyState () [0x00000] in <filename unknown>:0 
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].MoveNext () [0x00000] in <filename unknown>:0 
+  at ZombieScript.infectHuman (System.Collections.Generic.List`1 humans) [0x00000] in <filename unknown>:0 
+  at SceneManager.UpdateZombies () [0x00000] in <filename unknown>:0 
+  at SceneManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+InvalidOperationException: Collection was modified; enumeration operation may not execute.
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].VerifyState () [0x00000] in <filename unknown>:0 
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].MoveNext () [0x00000] in <filename unknown>:0 
+  at ZombieScript.infectHuman (System.Collections.Generic.List`1 humans) [0x00000] in <filename unknown>:0 
+  at SceneManager.UpdateZombies () [0x00000] in <filename unknown>:0 
+  at SceneManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+InvalidOperationException: Collection was modified; enumeration operation may not execute.
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].VerifyState () [0x00000] in <filename unknown>:0 
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].MoveNext () [0x00000] in <filename unknown>:0 
+  at ZombieScript.infectHuman (System.Collections.Generic.List`1 humans) [0x00000] in <filename unknown>:0 
+  at SceneManager.UpdateZombies () [0x00000] in <filename unknown>:0 
+  at SceneManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+InvalidOperationException: Collection was modified; enumeration operation may not execute.
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].VerifyState () [0x00000] in <filename unknown>:0 
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].MoveNext () [0x00000] in <filename unknown>:0 
+  at ZombieScript.infectHuman (System.Collections.Generic.List`1 humans) [0x00000] in <filename unknown>:0 
+  at SceneManager.UpdateZombies () [0x00000] in <filename unknown>:0 
+  at SceneManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+InvalidOperationException: Collection was modified; enumeration operation may not execute.
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].VerifyState () [0x00000] in <filename unknown>:0 
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].MoveNext () [0x00000] in <filename unknown>:0 
+  at ZombieScript.infectHuman (System.Collections.Generic.List`1 humans) [0x00000] in <filename unknown>:0 
+  at SceneManager.UpdateZombies () [0x00000] in <filename unknown>:0 
+  at SceneManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+InvalidOperationException: Collection was modified; enumeration operation may not execute.
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].VerifyState () [0x00000] in <filename unknown>:0 
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].MoveNext () [0x00000] in <filename unknown>:0 
+  at ZombieScript.infectHuman (System.Collections.Generic.List`1 humans) [0x00000] in <filename unknown>:0 
+  at SceneManager.UpdateZombies () [0x00000] in <filename unknown>:0 
+  at SceneManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+InvalidOperationException: Collection was modified; enumeration operation may not execute.
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].VerifyState () [0x00000] in <filename unknown>:0 
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].MoveNext () [0x00000] in <filename unknown>:0 
+  at ZombieScript.infectHuman (System.Collections.Generic.List`1 humans) [0x00000] in <filename unknown>:0 
+  at SceneManager.UpdateZombies () [0x00000] in <filename unknown>:0 
+  at SceneManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+InvalidOperationException: Collection was modified; enumeration operation may not execute.
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].VerifyState () [0x00000] in <filename unknown>:0 
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].MoveNext () [0x00000] in <filename unknown>:0 
+  at ZombieScript.infectHuman (System.Collections.Generic.List`1 humans) [0x00000] in <filename unknown>:0 
+  at SceneManager.UpdateZombies () [0x00000] in <filename unknown>:0 
+  at SceneManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+InvalidOperationException: Collection was modified; enumeration operation may not execute.
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].VerifyState () [0x00000] in <filename unknown>:0 
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].MoveNext () [0x00000] in <filename unknown>:0 
+  at ZombieScript.infectHuman (System.Collections.Generic.List`1 humans) [0x00000] in <filename unknown>:0 
+  at SceneManager.UpdateZombies () [0x00000] in <filename unknown>:0 
+  at SceneManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+InvalidOperationException: Collection was modified; enumeration operation may not execute.
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].VerifyState () [0x00000] in <filename unknown>:0 
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].MoveNext () [0x00000] in <filename unknown>:0 
+  at ZombieScript.infectHuman (System.Collections.Generic.List`1 humans) [0x00000] in <filename unknown>:0 
+  at SceneManager.UpdateZombies () [0x00000] in <filename unknown>:0 
+  at SceneManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+InvalidOperationException: Collection was modified; enumeration operation may not execute.
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].VerifyState () [0x00000] in <filename unknown>:0 
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].MoveNext () [0x00000] in <filename unknown>:0 
+  at ZombieScript.infectHuman (System.Collections.Generic.List`1 humans) [0x00000] in <filename unknown>:0 
+  at SceneManager.UpdateZombies () [0x00000] in <filename unknown>:0 
+  at SceneManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+InvalidOperationException: Collection was modified; enumeration operation may not execute.
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].VerifyState () [0x00000] in <filename unknown>:0 
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].MoveNext () [0x00000] in <filename unknown>:0 
+  at ZombieScript.infectHuman (System.Collections.Generic.List`1 humans) [0x00000] in <filename unknown>:0 
+  at SceneManager.UpdateZombies () [0x00000] in <filename unknown>:0 
+  at SceneManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+InvalidOperationException: Collection was modified; enumeration operation may not execute.
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].VerifyState () [0x00000] in <filename unknown>:0 
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].MoveNext () [0x00000] in <filename unknown>:0 
+  at ZombieScript.infectHuman (System.Collections.Generic.List`1 humans) [0x00000] in <filename unknown>:0 
+  at SceneManager.UpdateZombies () [0x00000] in <filename unknown>:0 
+  at SceneManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+InvalidOperationException: Collection was modified; enumeration operation may not execute.
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].VerifyState () [0x00000] in <filename unknown>:0 
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].MoveNext () [0x00000] in <filename unknown>:0 
+  at ZombieScript.infectHuman (System.Collections.Generic.List`1 humans) [0x00000] in <filename unknown>:0 
+  at SceneManager.UpdateZombies () [0x00000] in <filename unknown>:0 
+  at SceneManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+InvalidOperationException: Collection was modified; enumeration operation may not execute.
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].VerifyState () [0x00000] in <filename unknown>:0 
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].MoveNext () [0x00000] in <filename unknown>:0 
+  at ZombieScript.infectHuman (System.Collections.Generic.List`1 humans) [0x00000] in <filename unknown>:0 
+  at SceneManager.UpdateZombies () [0x00000] in <filename unknown>:0 
+  at SceneManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+InvalidOperationException: Collection was modified; enumeration operation may not execute.
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].VerifyState () [0x00000] in <filename unknown>:0 
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].MoveNext () [0x00000] in <filename unknown>:0 
+  at ZombieScript.infectHuman (System.Collections.Generic.List`1 humans) [0x00000] in <filename unknown>:0 
+  at SceneManager.UpdateZombies () [0x00000] in <filename unknown>:0 
+  at SceneManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+InvalidOperationException: Collection was modified; enumeration operation may not execute.
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].VerifyState () [0x00000] in <filename unknown>:0 
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].MoveNext () [0x00000] in <filename unknown>:0 
+  at ZombieScript.infectHuman (System.Collections.Generic.List`1 humans) [0x00000] in <filename unknown>:0 
+  at SceneManager.UpdateZombies () [0x00000] in <filename unknown>:0 
+  at SceneManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+InvalidOperationException: Collection was modified; enumeration operation may not execute.
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].VerifyState () [0x00000] in <filename unknown>:0 
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].MoveNext () [0x00000] in <filename unknown>:0 
+  at ZombieScript.infectHuman (System.Collections.Generic.List`1 humans) [0x00000] in <filename unknown>:0 
+  at SceneManager.UpdateZombies () [0x00000] in <filename unknown>:0 
+  at SceneManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+InvalidOperationException: Collection was modified; enumeration operation may not execute.
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].VerifyState () [0x00000] in <filename unknown>:0 
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].MoveNext () [0x00000] in <filename unknown>:0 
+  at ZombieScript.infectHuman (System.Collections.Generic.List`1 humans) [0x00000] in <filename unknown>:0 
+  at SceneManager.UpdateZombies () [0x00000] in <filename unknown>:0 
+  at SceneManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+InvalidOperationException: Collection was modified; enumeration operation may not execute.
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].VerifyState () [0x00000] in <filename unknown>:0 
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].MoveNext () [0x00000] in <filename unknown>:0 
+  at ZombieScript.infectHuman (System.Collections.Generic.List`1 humans) [0x00000] in <filename unknown>:0 
+  at SceneManager.UpdateZombies () [0x00000] in <filename unknown>:0 
+  at SceneManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+InvalidOperationException: Collection was modified; enumeration operation may not execute.
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].VerifyState () [0x00000] in <filename unknown>:0 
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].MoveNext () [0x00000] in <filename unknown>:0 
+  at ZombieScript.infectHuman (System.Collections.Generic.List`1 humans) [0x00000] in <filename unknown>:0 
+  at SceneManager.UpdateZombies () [0x00000] in <filename unknown>:0 
+  at SceneManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+InvalidOperationException: Collection was modified; enumeration operation may not execute.
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].VerifyState () [0x00000] in <filename unknown>:0 
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].MoveNext () [0x00000] in <filename unknown>:0 
+  at ZombieScript.infectHuman (System.Collections.Generic.List`1 humans) [0x00000] in <filename unknown>:0 
+  at SceneManager.UpdateZombies () [0x00000] in <filename unknown>:0 
+  at SceneManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+InvalidOperationException: Collection was modified; enumeration operation may not execute.
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].VerifyState () [0x00000] in <filename unknown>:0 
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].MoveNext () [0x00000] in <filename unknown>:0 
+  at ZombieScript.infectHuman (System.Collections.Generic.List`1 humans) [0x00000] in <filename unknown>:0 
+  at SceneManager.UpdateZombies () [0x00000] in <filename unknown>:0 
+  at SceneManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+InvalidOperationException: Collection was modified; enumeration operation may not execute.
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].VerifyState () [0x00000] in <filename unknown>:0 
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].MoveNext () [0x00000] in <filename unknown>:0 
+  at ZombieScript.infectHuman (System.Collections.Generic.List`1 humans) [0x00000] in <filename unknown>:0 
+  at SceneManager.UpdateZombies () [0x00000] in <filename unknown>:0 
+  at SceneManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+InvalidOperationException: Collection was modified; enumeration operation may not execute.
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].VerifyState () [0x00000] in <filename unknown>:0 
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].MoveNext () [0x00000] in <filename unknown>:0 
+  at ZombieScript.infectHuman (System.Collections.Generic.List`1 humans) [0x00000] in <filename unknown>:0 
+  at SceneManager.UpdateZombies () [0x00000] in <filename unknown>:0 
+  at SceneManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+InvalidOperationException: Collection was modified; enumeration operation may not execute.
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].VerifyState () [0x00000] in <filename unknown>:0 
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].MoveNext () [0x00000] in <filename unknown>:0 
+  at ZombieScript.infectHuman (System.Collections.Generic.List`1 humans) [0x00000] in <filename unknown>:0 
+  at SceneManager.UpdateZombies () [0x00000] in <filename unknown>:0 
+  at SceneManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+InvalidOperationException: Collection was modified; enumeration operation may not execute.
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].VerifyState () [0x00000] in <filename unknown>:0 
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].MoveNext () [0x00000] in <filename unknown>:0 
+  at ZombieScript.infectHuman (System.Collections.Generic.List`1 humans) [0x00000] in <filename unknown>:0 
+  at SceneManager.UpdateZombies () [0x00000] in <filename unknown>:0 
+  at SceneManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+InvalidOperationException: Collection was modified; enumeration operation may not execute.
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].VerifyState () [0x00000] in <filename unknown>:0 
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].MoveNext () [0x00000] in <filename unknown>:0 
+  at ZombieScript.infectHuman (System.Collections.Generic.List`1 humans) [0x00000] in <filename unknown>:0 
+  at SceneManager.UpdateZombies () [0x00000] in <filename unknown>:0 
+  at SceneManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+InvalidOperationException: Collection was modified; enumeration operation may not execute.
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].VerifyState () [0x00000] in <filename unknown>:0 
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].MoveNext () [0x00000] in <filename unknown>:0 
+  at ZombieScript.infectHuman (System.Collections.Generic.List`1 humans) [0x00000] in <filename unknown>:0 
+  at SceneManager.UpdateZombies () [0x00000] in <filename unknown>:0 
+  at SceneManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+InvalidOperationException: Collection was modified; enumeration operation may not execute.
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].VerifyState () [0x00000] in <filename unknown>:0 
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].MoveNext () [0x00000] in <filename unknown>:0 
+  at ZombieScript.infectHuman (System.Collections.Generic.List`1 humans) [0x00000] in <filename unknown>:0 
+  at SceneManager.UpdateZombies () [0x00000] in <filename unknown>:0 
+  at SceneManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+InvalidOperationException: Collection was modified; enumeration operation may not execute.
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].VerifyState () [0x00000] in <filename unknown>:0 
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].MoveNext () [0x00000] in <filename unknown>:0 
+  at ZombieScript.infectHuman (System.Collections.Generic.List`1 humans) [0x00000] in <filename unknown>:0 
+  at SceneManager.UpdateZombies () [0x00000] in <filename unknown>:0 
+  at SceneManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+InvalidOperationException: Collection was modified; enumeration operation may not execute.
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].VerifyState () [0x00000] in <filename unknown>:0 
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].MoveNext () [0x00000] in <filename unknown>:0 
+  at ZombieScript.infectHuman (System.Collections.Generic.List`1 humans) [0x00000] in <filename unknown>:0 
+  at SceneManager.UpdateZombies () [0x00000] in <filename unknown>:0 
+  at SceneManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+InvalidOperationException: Collection was modified; enumeration operation may not execute.
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].VerifyState () [0x00000] in <filename unknown>:0 
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].MoveNext () [0x00000] in <filename unknown>:0 
+  at ZombieScript.infectHuman (System.Collections.Generic.List`1 humans) [0x00000] in <filename unknown>:0 
+  at SceneManager.UpdateZombies () [0x00000] in <filename unknown>:0 
+  at SceneManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+InvalidOperationException: Collection was modified; enumeration operation may not execute.
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].VerifyState () [0x00000] in <filename unknown>:0 
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].MoveNext () [0x00000] in <filename unknown>:0 
+  at ZombieScript.infectHuman (System.Collections.Generic.List`1 humans) [0x00000] in <filename unknown>:0 
+  at SceneManager.UpdateZombies () [0x00000] in <filename unknown>:0 
+  at SceneManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+InvalidOperationException: Collection was modified; enumeration operation may not execute.
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].VerifyState () [0x00000] in <filename unknown>:0 
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].MoveNext () [0x00000] in <filename unknown>:0 
+  at ZombieScript.infectHuman (System.Collections.Generic.List`1 humans) [0x00000] in <filename unknown>:0 
+  at SceneManager.UpdateZombies () [0x00000] in <filename unknown>:0 
+  at SceneManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+InvalidOperationException: Collection was modified; enumeration operation may not execute.
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].VerifyState () [0x00000] in <filename unknown>:0 
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].MoveNext () [0x00000] in <filename unknown>:0 
+  at ZombieScript.infectHuman (System.Collections.Generic.List`1 humans) [0x00000] in <filename unknown>:0 
+  at SceneManager.UpdateZombies () [0x00000] in <filename unknown>:0 
+  at SceneManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+InvalidOperationException: Collection was modified; enumeration operation may not execute.
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].VerifyState () [0x00000] in <filename unknown>:0 
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].MoveNext () [0x00000] in <filename unknown>:0 
+  at ZombieScript.infectHuman (System.Collections.Generic.List`1 humans) [0x00000] in <filename unknown>:0 
+  at SceneManager.UpdateZombies () [0x00000] in <filename unknown>:0 
+  at SceneManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+InvalidOperationException: Collection was modified; enumeration operation may not execute.
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].VerifyState () [0x00000] in <filename unknown>:0 
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].MoveNext () [0x00000] in <filename unknown>:0 
+  at ZombieScript.infectHuman (System.Collections.Generic.List`1 humans) [0x00000] in <filename unknown>:0 
+  at SceneManager.UpdateZombies () [0x00000] in <filename unknown>:0 
+  at SceneManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+InvalidOperationException: Collection was modified; enumeration operation may not execute.
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].VerifyState () [0x00000] in <filename unknown>:0 
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].MoveNext () [0x00000] in <filename unknown>:0 
+  at ZombieScript.infectHuman (System.Collections.Generic.List`1 humans) [0x00000] in <filename unknown>:0 
+  at SceneManager.UpdateZombies () [0x00000] in <filename unknown>:0 
+  at SceneManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+InvalidOperationException: Collection was modified; enumeration operation may not execute.
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].VerifyState () [0x00000] in <filename unknown>:0 
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].MoveNext () [0x00000] in <filename unknown>:0 
+  at ZombieScript.infectHuman (System.Collections.Generic.List`1 humans) [0x00000] in <filename unknown>:0 
+  at SceneManager.UpdateZombies () [0x00000] in <filename unknown>:0 
+  at SceneManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+InvalidOperationException: Collection was modified; enumeration operation may not execute.
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].VerifyState () [0x00000] in <filename unknown>:0 
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].MoveNext () [0x00000] in <filename unknown>:0 
+  at ZombieScript.infectHuman (System.Collections.Generic.List`1 humans) [0x00000] in <filename unknown>:0 
+  at SceneManager.UpdateZombies () [0x00000] in <filename unknown>:0 
+  at SceneManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+InvalidOperationException: Collection was modified; enumeration operation may not execute.
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].VerifyState () [0x00000] in <filename unknown>:0 
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].MoveNext () [0x00000] in <filename unknown>:0 
+  at ZombieScript.infectHuman (System.Collections.Generic.List`1 humans) [0x00000] in <filename unknown>:0 
+  at SceneManager.UpdateZombies () [0x00000] in <filename unknown>:0 
+  at SceneManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+InvalidOperationException: Collection was modified; enumeration operation may not execute.
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].VerifyState () [0x00000] in <filename unknown>:0 
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].MoveNext () [0x00000] in <filename unknown>:0 
+  at ZombieScript.infectHuman (System.Collections.Generic.List`1 humans) [0x00000] in <filename unknown>:0 
+  at SceneManager.UpdateZombies () [0x00000] in <filename unknown>:0 
+  at SceneManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+InvalidOperationException: Collection was modified; enumeration operation may not execute.
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].VerifyState () [0x00000] in <filename unknown>:0 
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].MoveNext () [0x00000] in <filename unknown>:0 
+  at ZombieScript.infectHuman (System.Collections.Generic.List`1 humans) [0x00000] in <filename unknown>:0 
+  at SceneManager.UpdateZombies () [0x00000] in <filename unknown>:0 
+  at SceneManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+InvalidOperationException: Collection was modified; enumeration operation may not execute.
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].VerifyState () [0x00000] in <filename unknown>:0 
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].MoveNext () [0x00000] in <filename unknown>:0 
+  at ZombieScript.infectHuman (System.Collections.Generic.List`1 humans) [0x00000] in <filename unknown>:0 
+  at SceneManager.UpdateZombies () [0x00000] in <filename unknown>:0 
+  at SceneManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+InvalidOperationException: Collection was modified; enumeration operation may not execute.
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].VerifyState () [0x00000] in <filename unknown>:0 
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].MoveNext () [0x00000] in <filename unknown>:0 
+  at ZombieScript.infectHuman (System.Collections.Generic.List`1 humans) [0x00000] in <filename unknown>:0 
+  at SceneManager.UpdateZombies () [0x00000] in <filename unknown>:0 
+  at SceneManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+InvalidOperationException: Collection was modified; enumeration operation may not execute.
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].VerifyState () [0x00000] in <filename unknown>:0 
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].MoveNext () [0x00000] in <filename unknown>:0 
+  at ZombieScript.infectHuman (System.Collections.Generic.List`1 humans) [0x00000] in <filename unknown>:0 
+  at SceneManager.UpdateZombies () [0x00000] in <filename unknown>:0 
+  at SceneManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+InvalidOperationException: Collection was modified; enumeration operation may not execute.
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].VerifyState () [0x00000] in <filename unknown>:0 
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].MoveNext () [0x00000] in <filename unknown>:0 
+  at ZombieScript.infectHuman (System.Collections.Generic.List`1 humans) [0x00000] in <filename unknown>:0 
+  at SceneManager.UpdateZombies () [0x00000] in <filename unknown>:0 
+  at SceneManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+InvalidOperationException: Collection was modified; enumeration operation may not execute.
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].VerifyState () [0x00000] in <filename unknown>:0 
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].MoveNext () [0x00000] in <filename unknown>:0 
+  at ZombieScript.infectHuman (System.Collections.Generic.List`1 humans) [0x00000] in <filename unknown>:0 
+  at SceneManager.UpdateZombies () [0x00000] in <filename unknown>:0 
+  at SceneManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+InvalidOperationException: Collection was modified; enumeration operation may not execute.
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].VerifyState () [0x00000] in <filename unknown>:0 
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].MoveNext () [0x00000] in <filename unknown>:0 
+  at ZombieScript.infectHuman (System.Collections.Generic.List`1 humans) [0x00000] in <filename unknown>:0 
+  at SceneManager.UpdateZombies () [0x00000] in <filename unknown>:0 
+  at SceneManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+InvalidOperationException: Collection was modified; enumeration operation may not execute.
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].VerifyState () [0x00000] in <filename unknown>:0 
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].MoveNext () [0x00000] in <filename unknown>:0 
+  at ZombieScript.infectHuman (System.Collections.Generic.List`1 humans) [0x00000] in <filename unknown>:0 
+  at SceneManager.UpdateZombies () [0x00000] in <filename unknown>:0 
+  at SceneManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+InvalidOperationException: Collection was modified; enumeration operation may not execute.
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].VerifyState () [0x00000] in <filename unknown>:0 
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].MoveNext () [0x00000] in <filename unknown>:0 
+  at ZombieScript.infectHuman (System.Collections.Generic.List`1 humans) [0x00000] in <filename unknown>:0 
+  at SceneManager.UpdateZombies () [0x00000] in <filename unknown>:0 
+  at SceneManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+InvalidOperationException: Collection was modified; enumeration operation may not execute.
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].VerifyState () [0x00000] in <filename unknown>:0 
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].MoveNext () [0x00000] in <filename unknown>:0 
+  at ZombieScript.infectHuman (System.Collections.Generic.List`1 humans) [0x00000] in <filename unknown>:0 
+  at SceneManager.UpdateZombies () [0x00000] in <filename unknown>:0 
+  at SceneManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+InvalidOperationException: Collection was modified; enumeration operation may not execute.
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].VerifyState () [0x00000] in <filename unknown>:0 
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].MoveNext () [0x00000] in <filename unknown>:0 
+  at ZombieScript.infectHuman (System.Collections.Generic.List`1 humans) [0x00000] in <filename unknown>:0 
+  at SceneManager.UpdateZombies () [0x00000] in <filename unknown>:0 
+  at SceneManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+InvalidOperationException: Collection was modified; enumeration operation may not execute.
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].VerifyState () [0x00000] in <filename unknown>:0 
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].MoveNext () [0x00000] in <filename unknown>:0 
+  at ZombieScript.infectHuman (System.Collections.Generic.List`1 humans) [0x00000] in <filename unknown>:0 
+  at SceneManager.UpdateZombies () [0x00000] in <filename unknown>:0 
+  at SceneManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+InvalidOperationException: Collection was modified; enumeration operation may not execute.
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].VerifyState () [0x00000] in <filename unknown>:0 
+  at System.Collections.Generic.List`1+Enumerator[UnityEngine.GameObject].MoveNext () [0x00000] in <filename unknown>:0 
+  at ZombieScript.infectHuman (System.Collections.Generic.List`1 humans) [0x00000] in <filename unknown>:0 
+  at SceneManager.UpdateZombies () [0x00000] in <filename unknown>:0 
+  at SceneManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
